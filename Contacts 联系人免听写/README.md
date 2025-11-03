@@ -1,6 +1,7 @@
 # Contacts 联系人免听写
 
-[Shortcuts 动作下载](https://www.icloud.com/shortcuts/a9b506b0addf4f7cbaa430ab331136cc)
+- [Shortcuts 动作 20251103 更新：支持复姓](https://www.icloud.com/shortcuts/b05377c125154bd2bd5c7b0fcf9b305d)
+- [Shortcuts 动作下载](https://www.icloud.com/shortcuts/a9b506b0addf4f7cbaa430ab331136cc)
 
 原生听写（语音输入）功能会尝试拟合你说的内容和联系人信息，导致在正常的文本中，可能随机出现一些联系人名字。[有人发现](https://www.reddit.com/r/ios/comments/1oftoml/a_7line_script_fixed_my_biggest_ios_annoyance_in/)，通过在联系人姓名中插入一些无法发音的字符，可以避免语音输入过拟合。
 
